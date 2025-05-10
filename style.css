@@ -30,6 +30,8 @@ p {
   line-height: 1.5;
 }
 .text-box {
-  padding-inline: 15px;
+  padding-inline: 20px;
+  padding-block-end: 10px;
+  
   text-align: center;
 }
